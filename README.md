@@ -7,4 +7,4 @@
 * The app is designed to be responsive, ensuring a consistent and optimized user interface across various devices and screen sizes.
   
 *******************************************************
-Live demo - Shopping Website
+Live demo - [Shopping Website](https://lucky-shop-style.netlify.app/)
